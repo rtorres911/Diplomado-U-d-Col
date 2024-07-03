@@ -17,3 +17,5 @@ Transformar y visualizar los datos que preunta el propietario de los datos vario
 
 ![Cuenta_GitHub Dashboard](https://github.com/rtorres911/Diplomado-U-d-Col/assets/45106364/ad38b30c-6c40-4c1b-8532-4f32e02ecc2b)
 
+## Código consulta de sql
+``` SELECT * FROM Tabla ``` 
