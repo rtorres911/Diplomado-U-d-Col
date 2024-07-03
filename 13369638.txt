@@ -1,0 +1,3 @@
+The number of records processed is 0.
+The number of records that couldn't be processed is 4.
+The module Post Mass Addition ended with an error.
